@@ -2,21 +2,27 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-}
-
 .App-header {
-  background-color: #282c34;
+  background-color: #EB9486;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.input { 
+  font-size: 10vh;
+}
+
+.title {
+  font-size: 10vh;
+  color: #CAE7B9;
+}
+
+.roman {
+  font-family: 'Quattrocento', serif;
+  font-size: 15vh;
+  color: #7E7F9A;
 }
